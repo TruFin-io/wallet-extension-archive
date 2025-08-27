@@ -7,3 +7,5 @@ We currently support three wallets(Petra, Meteor, and Solflare) without version 
 - Petra
 - Meteor
 - Solflare
+
+> Please make sure to update the "WalletExtensionWithVersion" in the [Plawright Web3](https://github.com/TruFin-io/playwright-web3) repository to the corresponding version when publishing a new release
